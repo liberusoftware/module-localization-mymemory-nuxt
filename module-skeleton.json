@@ -1,0 +1,25 @@
+{
+  "repository": "module-localization-mymemory-nuxt",
+  "capabilityKey": "liberusoftware/localization-mymemory",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-localization-mymemory-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/boilerplate/nextjs/localization-mymemory.md",
+  "presentationPlan": "projects/boilerplate/nuxt/localization-mymemory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
